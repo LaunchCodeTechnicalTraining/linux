@@ -11,7 +11,7 @@ last_edit_date: # just the date is enough (don't worry about the time portion)
 
 ## Major Concepts & Key Terminology
 
-- shell
+- sheel
 - terminal emulator
 - Bash shell
 - Bash command structure
