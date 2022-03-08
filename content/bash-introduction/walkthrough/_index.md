@@ -10,6 +10,6 @@ last_edit_date: # just the date is enough (don't worry about the time portion)
 
 ## Walkthrough
 
-**Bash** is *the* GNU Project's shell. A **shell** is an interface between a user and the kernel. Bash is a **text-based** shell. By learning aspects of the Bash shell you are learning a *powerful mechanism* for interfacing with a computer.
+**Bash** is the GNU Project's shell. A **shell** is an interface between a user and the kernel. Bash is a **text-based** shell. By learning aspects of the Bash shell you are learning a *powerful mechanism* for interfacing with a computer.
 
 {{% children %}}
