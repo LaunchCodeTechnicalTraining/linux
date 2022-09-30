@@ -21,6 +21,8 @@ You will learn about many of the operational tools used when working with a serv
 
 <!-- #### Generally -->
 
+# I'm Editing the Texbook!  
+
 Learning how to give instructions to a computer so that it performs any given task is the job of someone who works in tech. In this course you will learn and practice giving text based commands to a computer using the terminal to accomplish tasks.
 
 {{% notice note %}}
